@@ -1,3 +1,6 @@
+#
+# OCT 26, 2017 --Z this repo has been relocated here https://gitlab.com/sciamlab/ckan-vagrant
+#
 # SciamLab standard ckan-vagrant
 
 This is the vagrant setup and provisioning for a full fledged CKAN 2.7.2 setup on VirtualBox standard Ubuntu 16.02 LTS (Xenial) using recent software packages like PostgreSQL 10, PostGIS 2.4, SOLR 7.1.0 and many other goodies. The CKAN setup is finally deployed on an Apache2 using mod_wsgi
