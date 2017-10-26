@@ -1,5 +1,5 @@
 #
-# OCT 26, 2017 --Z this repo has been relocated here https://gitlab.com/sciamlab/ckan-vagrant
+# OCT 26, 2017 --> this repo has been relocated here https://gitlab.com/sciamlab/ckan-vagrant
 #
 # SciamLab standard ckan-vagrant
 
