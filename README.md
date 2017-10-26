@@ -16,7 +16,7 @@ With the CKAN setup are also installed and configured the following CKAN extensi
     * install [Vagrant](https://www.vagrantup.com/intro/getting-started/install.html)
 
     please ensure your Virtualbox version is a supported one by Vagrant. These include the recent 5.1 version but not yet the latest 5.2.
-    In Cse you want use VirtualBox 5.2 with Vagrant you can add support for it following [this hotfix](https://github.com/hashicorp/vagrant/issues/9090#issuecomment-338084000)
+    In case you want use VirtualBox 5.2 with Vagrant you can add support for it following [this hotfix](https://github.com/hashicorp/vagrant/issues/9090#issuecomment-338084000)
 
 2. **Clone this repo**
 
@@ -55,10 +55,10 @@ With the CKAN setup are also installed and configured the following CKAN extensi
 	| **mod_wsgi**     | [mod_wsgi 4.3.0](https://github.com/GrahamDumpleton/mod_wsgi)       |
 
 ## What's next
-You may want configure email notification from your CKAN setup. In such case you can installa an email server like [postfix]() and then [follow the instruction](http://docs.ckan.org/en/latest/maintaining/email-notifications.html) on the standard CKAN documentation
+You may want configure email notification from your CKAN setup. In such case you can installa an email server like postfix and then [follow the instruction](http://docs.ckan.org/en/latest/maintaining/email-notifications.html) on the standard CKAN documentation
 
 ## Questions, Issues ?
-Feel free to contact us or [create a new issue]() on this repository. We'll do our best to try and help!
+Feel free to contact us or create a new issue on this repository. We'll do our best to try and help!
 
 ## License
 Apache License Version 2.0. See [LICENSE](LICENSE) for more details
